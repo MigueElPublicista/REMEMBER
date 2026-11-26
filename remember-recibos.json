@@ -1,0 +1,21 @@
+{
+  "name": "Recibos de pago · REMEMBER",
+  "short_name": "Recibos",
+  "description": "Recibos de pago de REMEMBER",
+  "background_color": "#0d3f43",
+  "theme_color": "#0d3f43",
+  "icons": [
+    {
+      "src": "https://raw.githubusercontent.com/MigueElPublicista/REMEMBER/main/open-graph_1200x1200.jpg",
+      "sizes": "1200x1200",
+      "type": "image/jpeg",
+      "purpose": "any"
+    },
+    {
+      "src": "https://raw.githubusercontent.com/MigueElPublicista/REMEMBER/main/open-graph_1200x1200.jpg",
+      "sizes": "1200x1200",
+      "type": "image/jpeg",
+      "purpose": "maskable"
+    }
+  ]
+}
